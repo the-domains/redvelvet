@@ -1,0 +1,28 @@
+name: redvelvet
+favicon: null
+layout_spectrum: 0.949078256264329
+typography_spectrum: 0.7766123141627759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5633456392679363
+  lightness: 0.22003447776660323
+  saturation: 0.32723179599270225
+  rhythmicContrast: 0.9224409393500537
+purpose: []
